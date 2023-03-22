@@ -1,4 +1,4 @@
-baseURL = 'https://blog.polarizedions.net/'
+baseURL = '/'
 languageCode = 'en-us'
 title = "PolarizedIons's Blog"
 theme = "terminal"
